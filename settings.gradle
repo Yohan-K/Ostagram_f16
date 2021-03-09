@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ostagram_f16"
