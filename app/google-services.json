@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956540013051",
+    "project_id": "ostagram-f16",
+    "storage_bucket": "ostagram-f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956540013051:android:55ba687c3d8564c73fe35e",
+        "android_client_info": {
+          "package_name": "com.example.ostagram_f16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956540013051-krb4kh2lpv383rd7m4qnnhgl8hjpqtdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bbzJgqGFTwnlDGtKT72C61h-8DJXz8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956540013051-krb4kh2lpv383rd7m4qnnhgl8hjpqtdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
